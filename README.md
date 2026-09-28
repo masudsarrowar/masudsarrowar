@@ -15,9 +15,9 @@ Interested in Agentic AI, AI Security, Large Language Model (LLM) Security, Prom
   <a href="https://www.linkedin.com/in/masudsarrowar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Masud%20Sarrowar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/profile/masudsarrowar" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-masudsarrowar-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
+ <a href="https://www.facebook.com/profile/masudsarrowar" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-masudsarrowar-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 </p>
 
 ---
