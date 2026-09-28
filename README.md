@@ -15,8 +15,8 @@ Interested in Agentic AI, AI Security, Large Language Model (LLM) Security, Prom
   <a href="https://www.linkedin.com/in/masudsarrowar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Masud%20Sarrowar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/masudsarrowar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-masudsarrowar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.hackerrank.com/profile/masudsarrowar" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-masudsarrowar-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
 
@@ -24,12 +24,13 @@ Interested in Agentic AI, AI Security, Large Language Model (LLM) Security, Prom
 
 ### About Me
 
-- B.Sc. in Computer Science and Engineering at United International University
+- Expected graduation: **2027**
 - Undergraduate thesis in progress: **Agentic AI Security in Industrial Automation**
-- Research interests: **Agentic AI, AI Security, LLM Security, Prompt Injection Attacks, CPS Security, and Industrial Automation Security**
-- Academic project experience in healthcare management systems and IoT-based facial expression recognition
-- Former Grader at United International University
-- Senior Executive at UIU English Language Forum
+- Research interests: **Agentic AI, AI Security, LLM Security, Prompt Injection Attacks, Cyber-Physical System Security, and Industrial Automation Security**
+- Academic project experience in **healthcare management systems** and **IoT-based facial expression recognition**
+- Currently exploring **AI agent security concepts** for my undergraduate thesis
+- Former Grader at **United International University**
+- Senior Executive at **UIU English Language Forum**
 
 ---
 
@@ -72,13 +73,14 @@ A real-time edge-AI facial expression recognition system using ESP32-CAM and Edg
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### AI / ML
+#### Research Interests
 
-![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-1F2937?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-374151?style=for-the-badge)
+![AI Security](https://img.shields.io/badge/AI%20Security-111827?style=for-the-badge)
 ![LLM Security](https://img.shields.io/badge/LLM%20Security-4B5563?style=for-the-badge)
-![Prompt Injection](https://img.shields.io/badge/Prompt%20Injection-6B7280?style=for-the-badge)
+![Prompt Injection Attacks](https://img.shields.io/badge/Prompt%20Injection%20Attacks-6B7280?style=for-the-badge)
+![CPS Security](https://img.shields.io/badge/CPS%20Security-1F2937?style=for-the-badge)
+![Industrial Automation Security](https://img.shields.io/badge/Industrial%20Automation%20Security-374151?style=for-the-badge)
 
 #### Data & Tools
 
