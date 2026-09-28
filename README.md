@@ -1,7 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Masud Sarrowar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" ></h1>
 
-<p align="center" style="text-align: justify;">Front-end Developer , passionate about crafting elegant solutions through clean and efficient code. Dedicated to turning ideas into reality with a blend of technical expertise and a creative touch. Join me on this coding journey! 🚀</p>
+<p align="center" style="text-align: justify;">
+
+Computer Science and Engineering undergraduate at United International University, Bangladesh, exploring AI security, LLM-powered agents, and prompt injection defense.
+
+My current academic focus is Agentic AI Security in Industrial Automation, where I am studying how AI agents connected to tools and systems can be attacked through text-based, image-based, and hybrid prompt injection, tool misuse, and authentication exploitation.</p>
 
 <br />
 <p align="center">
@@ -17,16 +21,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/ws7w9kM/Programming-amico.png">
 <br /><br />
 
-- Always try to learn modern technology
-
-- I’m currently exploring deeply all the Front-end Technologies
-- My Resume. [Download](https://drive.google.com/file/d/1663vmq3RxWy8AzTHB_qjBFU97AJq_jm9/view)
-
-- Studies B.Sc (Engineering) in Computer Science & Engineering (C.S.E) at [United International University - UIU](https://www.uiu.ac.bd/).
-
-- Pronouns: He/His
-
-
+- Currently working on Agentic AI Security in Industrial Automation
+- Interested in LLM Security, Prompt Injection Defense, AI Safety, and Cyber-Physical System Security
+- Built academic projects in healthcare management systems, IoT-based facial expression recognition, and database design
+- Learning Python, LangGraph, CrewAI, and AI agent security concepts
+- Studies B.Sc. in Computer Science & Engineering at United International University
 <br /><br /><br /><br />
 
 
