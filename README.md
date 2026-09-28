@@ -10,8 +10,8 @@ Interested in Agentic AI, AI Security, Large Language Model (LLM) Security, Prom
 
 <p align="center">
   <a href="mailto:masudsarrowar.en@gmail.com">
-    <img src="https://img.shields.io/badge/Email-masudsarrowar.en%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
   <a href="https://www.linkedin.com/in/masudsarrowar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Masud%20Sarrowar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
