@@ -1,92 +1,114 @@
-<h1 align="center">Hi 👋, I'm Masud Sarrowar</h1>
+<h1 align="center">Hi, I'm Masud Sarrowar</h1>
 
 <p align="center">
-Computer Science and Engineering undergraduate at United International University, Bangladesh, exploring AI security, LLM-powered agents, and prompt injection defense.
+Computer Science and Engineering undergraduate at United International University, Bangladesh.
 </p>
 
 <p align="center">
-My current academic focus is <b>Agentic AI Security in Industrial Automation</b>, where I am studying how AI agents connected to tools and systems can be attacked through text-based, image-based, and hybrid prompt injection, tool misuse, and authentication exploitation.
+Interested in Agentic AI, AI Security, Large Language Model (LLM) Security, Prompt Injection Attacks, Cyber-Physical System Security, and Industrial Automation Security.
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/masudsarrowar/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
- <a href="https://www.facebook.com/masudsarrowar/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
- </a>
+  <a href="mailto:masudsarrowar.en@gmail.com">
+    <img src="https://img.shields.io/badge/Email-masudsarrowar.en%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/masudsarrowar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Masud%20Sarrowar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/masudsarrowar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-masudsarrowar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<br />
+---
 
-<img align="right" alt="AI Security and Programming" width="380" src="https://i.ibb.co/ws7w9kM/Programming-amico.png">
+### About Me
 
-- Currently working on **Agentic AI Security in Industrial Automation**
-- Interested in **LLM Security, Prompt Injection Defense, AI Safety, and Cyber-Physical System Security**
-- Built academic projects in **healthcare management systems, IoT-based facial expression recognition, and database design**
-- Learning **Python, LangGraph, CrewAI, and AI agent security concepts**
-- Studying **B.Sc. in Computer Science & Engineering** at United International University
+- B.Sc. in Computer Science and Engineering at United International University
+- Undergraduate thesis in progress: **Agentic AI Security in Industrial Automation**
+- Research interests: **Agentic AI, AI Security, LLM Security, Prompt Injection Attacks, CPS Security, and Industrial Automation Security**
+- Academic project experience in healthcare management systems and IoT-based facial expression recognition
+- Former Grader at United International University
+- Senior Executive at UIU English Language Forum
 
-<br /><br />
+---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">Technical Skills</h3></summary>
-  </ul>
-</div>
+### Featured Projects
 
-### Languages
+#### HealthCarePro - University Healthcare Management System
 
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-5382a1?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+A university healthcare platform featuring appointment scheduling, an AI chatbot, disease analytics dashboard, campus safety alert system, nearest-hospital locator, and online prescription-medicine recommendations.
 
-### AI & Agent Frameworks
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL, XAMPP  
+**Repository:** [HealthCarePro](https://github.com/masudsarrowar/HealthCarePro)
+
+#### Real-Time Facial Expression Recognition System
+
+A real-time edge-AI facial expression recognition system using ESP32-CAM and Edge Impulse. The system detects emotions such as happiness, sadness, anger, and surprise, with IoT integration for real-time monitoring and automated notifications.
+
+**Role:** Team Lead  
+**Tech Stack:** ESP32-CAM, Edge Impulse, Arduino IDE, IoT  
+**Repository:** [Real-Time Facial Expression Recognition System](https://github.com/masudsarrowar/Real-Time-Facial-Expression-Recognition-System)
+
+---
+
+### Technical Skills
+
+#### Languages
+
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Web & Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### AI / ML
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-1F2937?style=for-the-badge)
-![LLM Security](https://img.shields.io/badge/LLM%20Security-374151?style=for-the-badge)
-![Prompt Injection Defense](https://img.shields.io/badge/Prompt%20Injection%20Defense-4B5563?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6B7280?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-374151?style=for-the-badge)
+![LLM Security](https://img.shields.io/badge/LLM%20Security-4B5563?style=for-the-badge)
+![Prompt Injection](https://img.shields.io/badge/Prompt%20Injection-6B7280?style=for-the-badge)
 
-### Database
+#### Data & Tools
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-### Tools & Platforms
+#### Networking
 
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/visual_studio_code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![XAMPP](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter_notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Basic Routing](https://img.shields.io/badge/Basic%20Routing-374151?style=for-the-badge)
+![Router Configuration](https://img.shields.io/badge/Router%20Configuration-4B5563?style=for-the-badge)
 
-<br />
+---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">GitHub Activity</h3></summary>
-  </ul>
-</div>
+### Certifications
 
-<p align="center">
-  <a href="https://github.com/masudsarrowar">
-    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudsarrowar&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF" alt="Most Used Languages"/>
-  </a>
-  <a href="https://github.com/masudsarrowar">
-    <img align="center" height="190px" src="https://github-readme-streak-stats.herokuapp.com?user=masudsarrowar&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Streak"/>
-  </a>
-</p>
+- AI Prompt Engineering - Grameenphone, 2026
+- Web Development - Coursera, 2024
 
-<p align="center">
-  <img width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masudsarrowar&theme=dark" alt="GitHub Profile Summary"/>
-</p>
+---
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=masudsarrowar&theme=high-contrast" />
+### Competitive Programming
+
+- HackerRank: [masudsarrowar](https://www.hackerrank.com/profile/masudsarrowar)
