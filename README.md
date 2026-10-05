@@ -30,7 +30,7 @@ Interested in Agentic AI, AI Security, Large Language Model (LLM) Security, Prom
 - Academic project experience in **healthcare management systems** and **IoT-based facial expression recognition**
 - Currently exploring **AI agent security concepts** for my undergraduate thesis
 - Former Grader at **United International University**
-- Senior Executive at **UIU English Language Forum**
+- Former Senior Executive at **UIU English Language Forum**
 
 ---
 
